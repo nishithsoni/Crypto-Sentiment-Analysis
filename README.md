@@ -1,1 +1,1 @@
-# Crypto-Sentiment-Analysis
+# cryptoSentimentAnalysis
